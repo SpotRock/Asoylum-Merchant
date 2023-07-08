@@ -356,10 +356,6 @@
 	default = 1000
 	min_val = 0
 
-/datum/config_entry/number/accountage
-	default = 0
-	min_val = 0
-
 /datum/config_entry/flag/dynamic_config_enabled
 
 /datum/config_entry/string/drone_required_role
