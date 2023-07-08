@@ -40,8 +40,6 @@
 
 /datum/config_entry/flag/force_random_names
 
-/datum/config_entry/flag/humans_need_surnames
-
 /datum/config_entry/flag/allow_ai // allow ai job
 
 /datum/config_entry/flag/allow_ai_multicam // allow ai multicamera mode
@@ -282,7 +280,7 @@
 	min_val = -1
 
 /datum/config_entry/string/overflow_job
-	default = "Assistant"
+	default = "Prisoner"
 
 /datum/config_entry/flag/starlight
 /datum/config_entry/flag/grey_assistants
